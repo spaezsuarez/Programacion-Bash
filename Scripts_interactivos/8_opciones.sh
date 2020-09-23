@@ -9,12 +9,12 @@ echo -e "Opciones enviadas: $* \n"
 echo "Recuperar valores"
 while [ -n "$1" ]
 do 
-case "$1" in
--a) echo "-a opcion utilizada";;
--b) echo "-b opcion utilziada";;
--c) echo "-c opcion utilizada";;
-*) echo "$1 no es una opcion";;
-esac
-shift
+    case "$1" in
+        -a) echo "-a opcion utilizada";;
+        -b) echo "-b opcion utilziada";;
+        -c) echo "-c opcion utilizada";;
+        *) echo "$1 no es una opcion";;
+    esac
+    shift
 done
 echo -e "\n"
