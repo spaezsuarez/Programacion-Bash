@@ -1,5 +1,5 @@
 #!/bin/bash
-#Programa para capturasr informacion del usuaruo y validarla
+#Programa para capturar informacion del usuario y validarla
 #Autor: Sergio David Paez Suarez
 
 option=0
