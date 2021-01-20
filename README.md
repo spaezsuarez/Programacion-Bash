@@ -1,8 +1,8 @@
 # Programacion-Bash
-Repositorio con ejercicios del curso de programacion bash shell de platzi
+Repositorio con ejercicios del curso de programacion bash shell de platzi.
 
 ## Orden de los modulos:
-aqui dejo una guia de los distintos modulos del curso, los dividi en estas carpetas para que tuviera un poco mas de orden
+Aqui dejo una guia de los distintos modulos del curso, los dividi en estas carpetas para que tuviera un poco mas de orden.
 
 ```
 1. Programacion_Shell_Basica
@@ -13,6 +13,6 @@ aqui dejo una guia de los distintos modulos del curso, los dividi en estas carpe
 6. Empaquetamiento
 
 ```
-## Documentacion extra
+## Documentación extra
 - https://devhints.io/bash
 - https://likegeeks.com/es/scripting-de-bash-parametros-y-opciones/#Parametros-y-opciones-Como-separarlos
